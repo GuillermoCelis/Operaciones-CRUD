@@ -1,0 +1,34 @@
+[{
+  "_id": "ganador1",
+  "etapa": "etapa1",
+  "ganador": "Egan Bernal",
+  "tiempo_llegada": "04:23:12",
+  "equipos_participantes": [
+    "Ineos Grenadiers",
+    "Movistar",
+    "Quick Step",
+    "Mitchelton-Scott"
+  ]
+},{
+  "_id": "ganador2",
+  "etapa": "etapa2",
+  "ganador": "Geraint Thomas",
+  "tiempo_llegada": "01:51:53",
+  "equipos_participantes": [
+    "Ineos Grenadiers",
+    "Movistar",
+    "Quick Step",
+    "Mitchelton-Scott"
+  ]
+},{
+  "_id": "ganador3",
+  "etapa": "etapa3",
+  "ganador": "Julian Alaphilippe",
+  "tiempo_llegada": "03:04:08",
+  "equipos_participantes": [
+    "Ineos Grenadiers",
+    "Movistar",
+    "Quick Step",
+    "Mitchelton-Scott"
+  ]
+}]
