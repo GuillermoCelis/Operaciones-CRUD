@@ -1,0 +1,23 @@
+[{
+  "_id": "General",
+  "etapa1": {
+    "Egan Bernal": "02:30:15",
+    "Geraint Thomas": "02:30:18",
+    "Julian Alaphilippe": "02:30:25"
+  },
+  "etapa2": {
+    "Egan Bernal": "01:45:20",
+    "Geraint Thomas": "01:45:23",
+    "Julian Alaphilippe": "01:45:30"
+  },
+  "etapa3": {
+    "Egan Bernal": "03:05:12",
+    "Geraint Thomas": "03:05:15",
+    "Julian Alaphilippe": "03:05:22"
+  },
+  "Clasificacion General": {
+    "Egan Bernal": "06:20:47",
+    "Geraint Thomas": "06:20:56",
+    "Julian Alaphilippe": "06:20:58"
+  }
+}]

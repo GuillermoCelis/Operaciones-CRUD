@@ -1,0 +1,46 @@
+[{
+  "_id": "etapa1",
+  "fecha": "2019-07-26",
+  "inicio": "Saint-Jean-de-Maurienne",
+  "final": "Col de l'Iseran",
+  "participantes": [
+    "Egan bernal",
+    "Nairo Quintana",
+    "Julian Alaphilippe",
+    "Simon Yates",
+    "Geraint Thomas",
+    "Alejandro Valverde",
+    "Enric Mas",
+    "Adam Yates"
+  ]
+},{
+  "_id": "etapa2",
+  "fecha": "2019-07-27",
+  "inicio": "Albertville",
+  "final": "Val Thorens",
+  "participantes": [
+    "Egan bernal",
+    "Nairo Quintana",
+    "Julian Alaphilippe",
+    "Simon Yates",
+    "Geraint Thomas",
+    "Alejandro Valverde",
+    "Enric Mas",
+    "Adam Yates"
+  ]
+},{
+  "_id": "etapa3",
+  "fecha": "2019-07-28",
+  "inicio": "Rambouillet",
+  "final": "París",
+  "participantes": [
+    "Egan bernal",
+    "Nairo Quintana",
+    "Julian Alaphilippe",
+    "Simon Yates",
+    "Geraint Thomas",
+    "Alejandro Valverde",
+    "Enric Mas",
+    "Adam Yates"
+  ]
+}]

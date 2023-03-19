@@ -1,0 +1,37 @@
+[{
+  "_id": "1",
+  "nombre": "Ineos Grenadiers",
+  "pais": "Gran Bretaña",
+  "directos_derportivo": "Sir Dave Brailsford",
+  "participantes": [
+    "Egan Bernal",
+    "Geraint Thomas"
+  ]
+},{
+  "_id": "2",
+  "nombre": "Movistar",
+  "pais": "España",
+  "directos_derportivo": "Eusebio Unzue",
+  "participantes": [
+    "Nairo Quintana",
+    "Alejandro Valverde"
+  ]
+},{
+  "_id": "3",
+  "nombre": "Quick Step",
+  "pais": "Bélgica",
+  "directos_derportivo": "Jan Schaffrath",
+  "participantes": [
+    "Julian Alaphilippe",
+    "Enric Mas"
+  ]
+},{
+  "_id": "4",
+  "nombre": "Mitchelton-Scott",
+  "pais": "Australia",
+  "directos_derportivo": "Mathew Hayman",
+  "participantes": [
+    "Simon Yates",
+    "Adam Yates"
+  ]
+}]

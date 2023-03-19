@@ -1,0 +1,57 @@
+[{
+  "_id": "1234",
+  "nombre": "Egan Bernal",
+  "nacionalidad": "Colombiano",
+  "fecha_nacimiento": "1997-01-13",
+  "equipo": "Ineos Grenadiers",
+  "rol": "ciclista"
+},{
+  "_id": "12345",
+  "nombre": "Nairo Quintana",
+  "nacionalidad": "Colombiano",
+  "fecha_nacimiento": "1990-02-04",
+  "equipo": "Movistar",
+  "rol": "ciclista"
+},{
+  "_id": "123456",
+  "nombre": "Julian Alaphilippe",
+  "nacionalidad": "Frances",
+  "fecha_nacimiento": "1992-06-11",
+  "equipo": "Quick Step",
+  "rol": "ciclista"
+},{
+  "_id": "1234567",
+  "nombre": "Simon Yates",
+  "nacionalidad": "Britanico",
+  "fecha_nacimiento": "1992-08-07",
+  "equipo": "Mitchelton-Scott",
+  "rol": "ciclista"
+},{
+  "_id": "12345678",
+  "nombre": "Geraint Thomas",
+  "nacionalidad": "Britanico",
+  "fecha_nacimiento": "1986-05-25",
+  "equipo": "Ineos Grenadiers",
+  "rol": "ciclista"
+},{
+  "_id": "123456789",
+  "nombre": "Alejandro Valverde",
+  "nacionalidad": "Español",
+  "fecha_nacimiento": "1980-04-25",
+  "equipo": "Movistar",
+  "rol": "ciclista"
+},{
+  "_id": "1234567891",
+  "nombre": "Enric Mas",
+  "nacionalidad": "Español",
+  "fecha_nacimiento": "1995-01-07",
+  "equipo": "Quick Step",
+  "rol": "ciclista"
+},{
+  "_id": "1234567892",
+  "nombre": "Adam Yates",
+  "nacionalidad": "Britanico",
+  "fecha_nacimiento": "1992-08-07",
+  "equipo": "Mitchelton-Scott",
+  "rol": "ciclista"
+}]
